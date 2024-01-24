@@ -1,0 +1,14 @@
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\bin\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).exe
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\bin\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).deps.json
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\bin\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).runtimeconfig.json
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\bin\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).dll
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\bin\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).pdb
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).AssemblyInfoInputs.cache
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).AssemblyInfo.cs
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).csproj.CoreCompileInputs.cache
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).dll
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\refint\22DH110153_PhamTuanAnh(LAB_3).dll
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).pdb
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\22DH110153_PhamTuanAnh(LAB_3).genruntimeconfig.cache
+D:\Visual studio code\code\22DH110153_PhamTuanAnh(LAB_3)\22DH110153_PhamTuanAnh(LAB_3)\obj\Debug\net8.0\ref\22DH110153_PhamTuanAnh(LAB_3).dll
